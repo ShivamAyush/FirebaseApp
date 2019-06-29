@@ -1,0 +1,4 @@
+#Tue Jun 04 17:27:31 IST 2019
+base.0=/Users/ayushsingh/AndroidStudioProjects/FirebaseApp/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

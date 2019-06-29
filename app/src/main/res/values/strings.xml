@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_timetable">TimeTable</string>
+    <string name="menu_attendance">Attendance</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Batch_name">Batch Name</string>
+    <string name="Q1">Was Class Attentive?</string>
+    <string name="Q2">Till what Extent were the Topics Delivered?</string>
+    <string name="Q3">was class able to understand what was taughted?</string>
+    <string-array name="Select_Branch">
+        <item>CSE-MC</item>
+        <item>CSE-GG</item>
+        <item>CSE-TI</item>
+    </string-array>
+    <string-array name="Select_sem">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+    </string-array>
+    <string-array name="Select_time">
+        <item>9:30</item>
+        <item>10:30</item>
+        <item>11:30</item>
+    </string-array>
+    <string-array name="Select_course">
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+    </string-array>
+    <string name="one">1/5</string>
+    <string name="two">2/5</string>
+    <string name="three">3/5</string>
+    <string name="four">4/5</string>
+    <string name="five">5/5</string>
+</resources>
